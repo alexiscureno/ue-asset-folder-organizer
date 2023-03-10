@@ -16,7 +16,7 @@ cleaned = 0
 parent_dir = "\\Game"
 
 if num_assets > 0:
-    asset_path = edit_asset_lib.get_path_name(selected_assets[0])
+    asset_path = edit_asset_lib.get_path_name_for_loaded_asset(selected_assets[0])
     parent_dir = os.path.dirname(asset_path)
 
 for asset in selected_assets:
