@@ -25,5 +25,4 @@ The Unreal Engine Asset Organizer script allows you to quickly and easily organi
 * The script only moves assets that are selected at the time of exeution
 * The script will not overwrite any existing assets.
 * The script will not move any assets that are not supported by Unreal Engine's EditorAssetLibrary.
-* The script will not move any assets that are not supported by Unreal Engine's EditorAssetLibrary.
 * The script logs the results of its actions to the Unreal Engine output log.
